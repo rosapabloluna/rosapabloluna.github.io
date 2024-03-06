@@ -1,0 +1,266 @@
+@@@*{
+            margin: 0;
+            padding: 0;
+            }
+main section form {
+}
+
+
+
+header{ width: 100%;
+    height: 100px;
+    background-color:black;
+    color:white;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+    }
+
+
+nav{
+           background-color: mediumvioletred;
+            height: 100px;
+    width: 100%;
+        }
+
+main{
+            
+            background-color: black;
+        }
+section form label {
+    font-weight: 100;
+}
+
+
+    
+section{width: 60%;
+    height: auto;
+    background-color:mediumvioletred;
+    color:black;
+    padding: 30px;
+    margin: 50px auto;
+ text-align: center;
+    
+    }
+
+   
+footer{width: 100%;
+    height: 100px;
+    background-color:black;
+    color:white;
+    margin: 0 auto;
+    padding: 30px;
+ text-align: center;
+    
+    }
+           
+ul,ol{margin: 20px;
+            color: black;
+            list-style-type: circle;
+            }
+        ol{margin: 20px;
+            color: black;
+            list-style-type: upper-roman;
+            }
+        
+        nav ul{ list-style-type: none;
+            text-align: center;
+            padding: 5px;
+            
+            }
+        nav ul li{ 
+            display: inline-block;
+            width: 150;
+     border: 1px solid white;
+            background-color: lavenderblush;
+            padding: 5px;
+            }
+        nav ul li a{ 
+            
+            padding: 5px
+            }
+        
+        
+        nav ul li a:link { 
+            
+            }
+        nav ul li a:visited { 
+            color: black;
+            }
+         nav ul li a:hover { 
+             text-decoration: none;
+            color: sandybrown;
+             font: 18px;
+            
+            }
+a{ text-decoration-line: none;
+    font-weight: bold;
+    margin: 0 20px;
+     }
+a:link, a:visited{
+    color: blue;
+    }
+a:hover{
+    color: blue;
+    }
+    
+    
+table{ 
+    width: 80%;
+    border: 5px solid#9bc1bc;
+    margin: 40px auto;
+    border-collapse: collapse;
+}
+table td,table th{ 
+     border: 2px solid#9bc1bc;
+}
+table th{ 
+    background-color: black;
+    color: whitesmoke;
+    height: 30px;
+    }
+  table td{ background-color: burlywood;
+       color: black;
+       height: 40px;
+       padding: 10px;
+       }
+.table2{
+    width: 60%;
+    background-color: burlywood;
+    
+}   
+
+.table2 td{
+    color: black;
+    background-color: transparent;
+    font-weight: bold;
+	
+    
+}      
+.table2 th,#table2 td{
+    border: 2px solid #9bc1bc;
+    
+}
+
+
+.table2 tr td:hover{
+	background-color:silver;
+	color: #FFFDFD;
+	
+	
+}
+#table3{
+    width: 800px;
+    margin:  auto;
+	
+	
+}
+#table3 th{ background-color: black;
+    color: white;
+
+    
+    
+}
+#table3 tr:nth-child(even){
+    background-color: salmon;
+    color: cornsilk;
+    
+}
+#table3 tr:nth-child(odd){
+    background-color: mediumvioletred;
+    color: aliceblue;
+}
+
+#table3 tr :hover{
+    background-color: silver;
+    color:black;
+}
+#table3 td{
+    background-color: transparent;
+       color: black;
+       height: 40px;
+       padding: 10px;
+}
+.imagen{
+    width: 30%;
+    height: auto;
+}
+section form label {
+    font-weight: bold;
+    font-family: impact;
+    text-align: left;
+    display: block;
+}
+input[type=text]  ,input[type=email]{
+    margin: 5px;
+    padding: 5px;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+
+#fmensaje {
+    width: 100%;
+    padding: 5px;
+    height: 80px;
+    background-color: #FFFFFF;
+	
+}
+form h3 p {
+    font-weight: lighter;
+    font-family: walter;
+}
+#secctioncontacto form label {
+    font-weight: lighter;
+    font-family: walter;
+}
+ul h3 p {
+    font-weight: lighter;
+    font-family: cambria;
+}
+body header h1 {
+    font-family: cambria;
+}
+
+
+
+
+section form input[type=submit] {
+    width: 20%;
+    height: 30px;
+    background-color: pink;
+    color: blue;
+    margin: 10px;
+    font-weight: bold;
+}
+#secctioncontacto {
+    /* [disabled]background-color: transparent; */
+}#secctioncontacto form #birthday {
+    margin: 10px;
+    width: 100%;
+}
+#secctioncontacto form #favcolor {
+    margin: 10px;
+    width: 100%;
+}
+#secctioncontacto form #css {
+
+}
+#secctioncontacto form #phone {
+    margin: 10PX;
+    width: 100%;
+}
+#secctioncontacto form #myfile {
+    margin: 10PX;
+    width: 100%;
+}
+#secctioncontacto form #fname {
+}
+.section {
+    font-family: louis george cafe;
+}
+.encabezado {
+    font-family: biocats;
+}
+.pie {
+    font: louis george cafe;
+}
